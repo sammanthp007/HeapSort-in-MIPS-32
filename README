@@ -1,0 +1,13 @@
+This project is done by Samman Bikram Thapa, sophomore of Howard University as an in-class Project for Computer Organization Class.
+
+Bugs that I found:
+
+
+
+
+Description of git commands I used:
+git status	: gives the status of the files in the working directory
+git add --all :adds all untracked files into the staging area
+git commit -m "message"		:commits the files in the staging area
+git-format-patch -o ../ HEAD^ 		:creates a patch file that uses only the top-most commit
+git push origin master				: sends the commits to remote

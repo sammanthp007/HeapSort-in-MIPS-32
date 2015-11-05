@@ -1,0 +1,25 @@
+From c8e12ccaad87546d8925fd23ae961e252831afaa Mon Sep 17 00:00:00 2001
+From: sammanthp007 <samman.thapa@bison.howard.edu>
+Date: Mon, 2 Nov 2015 23:40:59 -0500
+Subject: [PATCH] heapsort.S: add my name, Samman Bikram Thapa
+ <samman.thapa@bison.howard.edu>
+
+---
+ heapsort.s | 3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/heapsort.s b/heapsort.s
+index a77ac48..78963f9 100644
+--- a/heapsort.s
++++ b/heapsort.s
+@@ -1,4 +1,7 @@
++# This project is a combined effort of
+ #
++# Samman Bikram Thapa
++# and
+ # Gedare Bloom
+ #
+ # heapsort.s
+-- 
+1.9.1
+
